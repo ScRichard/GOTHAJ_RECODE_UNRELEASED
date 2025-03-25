@@ -3,13 +3,20 @@
 This is only source code of the client.
 
 # FEATURES
-## **Event Bus** Custom event bus for handling minecraft events
-## **UI** Modern uis for modules and so on
-## **Commands** For handling binds and toggles
-## **Client Settings** For setting up blur and bloom
-## **Modules** Smaller sections of modules COMBAT, MOVEMENT, PLAYER, VISUALS, CLIENT
-## **Binds** Modules can be binded on Mouse and Keyboard too
-## **Scripts** Scripts setup for JavaScript modules (unfinished variabiles)
+## **Event Bus**
+Custom event bus for handling minecraft events
+## **UI**
+Modern uis for modules and so on
+## **Commands** 
+For handling binds and toggles
+## **Client Settings** 
+For setting up blur and bloom
+## **Modules** 
+Smaller sections of modules COMBAT, MOVEMENT, PLAYER, VISUALS, CLIENT
+## **Binds** 
+Modules can be binded on Mouse and Keyboard too
+## **Scripts** 
+Scripts setup for JavaScript modules (unfinished variabiles)
 ## **Utilities**
 - Animations from easings.net
 - Buttons
